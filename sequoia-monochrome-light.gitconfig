@@ -1,0 +1,13 @@
+# Sequoia Sequoia Monochrome Light for delta
+[delta]
+  minus-color = "#525666"
+  minus-emph-color = "#525666"
+  plus-color = "#2e3038"
+  plus-emph-color = "#2e3038"
+  commit-decoration-style = "box ul"
+  commit-color = "#282930"
+  file-style = "bold #5f6370"
+  hunk-header-decoration-style = "box #e2e3e8"
+  hunk-header-file-style = "bold #42434e"
+  hunk-header-line-number-style = "#42434e"
+  syntax-theme = "Sequoia Monochrome-Light"

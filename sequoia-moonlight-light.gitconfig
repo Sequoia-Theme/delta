@@ -1,0 +1,13 @@
+# Sequoia Sequoia Moonlight Light for delta
+[delta]
+  minus-color = "#c94da8"
+  minus-emph-color = "#c94da8"
+  plus-color = "#4a85d4"
+  plus-emph-color = "#4a85d4"
+  commit-decoration-style = "box ul"
+  commit-color = "#282930"
+  file-style = "bold #9a5fd9"
+  hunk-header-decoration-style = "box #e2e3e8"
+  hunk-header-file-style = "bold #42434e"
+  hunk-header-line-number-style = "#42434e"
+  syntax-theme = "Sequoia Moonlight-Light"

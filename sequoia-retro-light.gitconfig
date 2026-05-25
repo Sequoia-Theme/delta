@@ -1,0 +1,13 @@
+# Sequoia Sequoia Retro Light for delta
+[delta]
+  minus-color = "#5f7982"
+  minus-emph-color = "#c99730"
+  plus-color = "#4a704e"
+  plus-emph-color = "#4a704e"
+  commit-decoration-style = "box ul"
+  commit-color = "#282930"
+  file-style = "bold #456a82"
+  hunk-header-decoration-style = "box #e2e3e8"
+  hunk-header-file-style = "bold #42434e"
+  hunk-header-line-number-style = "#42434e"
+  syntax-theme = "Sequoia Retro-Light"
